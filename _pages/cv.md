@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be found [here](https://gregor-ge.github.io/files/CV_Gregor_Geigle_27_11_2021.pdf). 
+My CV can be found [here](https://gregor-ge.github.io/files/CV.pdf). 
 I will try and keep as up-to-date as possible.

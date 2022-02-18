@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Gregor Geigle"
   avatar           : "profile.png"
   bio              : "Researcher at the UKP lab, TU Darmstadt. Interested in NLP and multimodal vision+language methods"
   location         : "Darmstadt, Germany"

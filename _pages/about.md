@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About me
-
 I am a researcher at the Ubiquitous Knowledge Processing (UKP) Lab led by Iryna Gurevych at the Technical University of Darmstadt.
 My main research interests are NLP and machine learning. 
 I am particularly interested in cross-lingual, multimodal vision+language, and few-shot settings.
