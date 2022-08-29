@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the Ubiquitous Knowledge Processing (UKP) Lab led by Iryna Gurevych at the Technical University of Darmstadt.
-My main research interests are NLP and machine learning. 
-I am particularly interested in cross-lingual, multimodal vision+language, and few-shot settings.
-My current research project is about the classification of memes.
+I am a 1st year PhD student at the University of Würzburg where I am jointly supervised by Prof. Goran Glavas and Prof. Radu Timofte.
+My research interests are at the intersection of NLP and CV in multimodal vision+language problems.
 
-Previously, I completed my master’s in computer science at the Technical University of Darmstadt, where I wrote my thesis under the supervision of [Jonas Pfeiffer](https://pfeiffer.ai/) and [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp). 
-The results of my thesis can be found in [Retrieve Fast, Rerank Smart: Cooperative and Joint Approaches for Improved Cross-Modal Retrieval](https://arxiv.org/abs/2103.11920).
+Previously, I completed my M.Sc. in computer science at the Technical University of Darmstadt in 2021, 
+where I wrote my thesis at the UKP lab under the supervision of [Jonas Pfeiffer](https://pfeiffer.ai/) and 
+[Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp), and then stayed at the group for a year as a research intern.
