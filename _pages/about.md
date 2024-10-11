@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD student at the University of Würzburg where I am jointly supervised by Prof. Goran Glavas and Prof. Radu Timofte.
-My research interests are at the intersection of NLP and CV in multimodal vision+language problems.
+I am a 3rd year PhD student at the University of Würzburg where I am jointly supervised by Prof. Goran Glavas ([WüNLP](https://www.caidas.uni-wuerzburg.de/nlp/team/)) and Prof. Radu Timofte ([Computer Vision Lab](https://www.informatik.uni-wuerzburg.de/computervision/team/)).
+My research interests are at the intersection of NLP and CV in multimodal vision & language problems with an additional faible for multilingual challenges.
 
 Previously, I completed my M.Sc. in computer science at the Technical University of Darmstadt in 2021, 
 where I wrote my thesis at the UKP lab under the supervision of [Jonas Pfeiffer](https://pfeiffer.ai/) and 
